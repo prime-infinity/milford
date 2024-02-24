@@ -3627,7 +3627,9 @@ blockquote {
     padding-top: 64px;
     padding-bottom: 64px;
   }
-
+  .blog-section{
+    margin-top: 450px;
+  }
   .nav-menu {
     background-color: #fff;
     padding-bottom: 10px;
@@ -3847,7 +3849,7 @@ blockquote {
   }
 
   .testimonial-slider-v2 {
-    max-width: 100%;
+    max-width: 90vw;
     position: relative;
   }
 
